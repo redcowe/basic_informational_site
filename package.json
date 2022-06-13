@@ -1,0 +1,22 @@
+{
+  "name": "basic_informational_site",
+  "version": "1.0.0",
+  "description": "The basic informational site project from TOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redcowe/basic_informational_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redcowe/basic_informational_site/issues"
+  },
+  "homepage": "https://github.com/redcowe/basic_informational_site#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
